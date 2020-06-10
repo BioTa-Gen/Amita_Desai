@@ -1,0 +1,163 @@
+{
+    "Name": {
+        "english": "Amita Desai",
+        "marathi": " अमिता देसाई "
+    },
+    "JobProfile": {
+        "english": "Technical Instructor",
+        "marathi": "Technical Instructor"
+    },
+    "Facebook": null,
+    "Instagram": null,
+    "Email": null,
+    "CompanyLink": "https://www.pvppcoe.ac.in/",
+    "CompanyExperience": null,
+    "CompanyName": {
+        "english": "Padmabhushan Vasantdada Patil Engineering College",
+        "marathi": " पद्मभूषण वसंतदादा पाटील इजिनियरींग कॉलेज "
+    },
+    "Hobby": {
+        "english": "Acting , Cooking, Dancing, Filmmaking, Nature Painting, Photography ",
+        "marathi": " अभिनय, पाककला, नृत्य, फिल्ममेकिंग , निसर्ग चित्रकला , फोटोग्राफी  "
+    },
+    "PersonalInformation": {
+        "FullName": {
+            "english": "Miss. Amita Anandrao Desai",
+            "marathi": "कु. अमिता आनंदराव देसाई"
+        },
+        "DateOfBirth": {
+            "english": "22/05/1993",
+            "marathi": "२२.०५.१९९३"
+        },
+        "BirthPlace": {
+            "english": "Harli Khurd, Tal. Gadhinglaj, Dist. Kolhapur",
+            "marathi": "हरळी खुर्द, ता. गडहिंग्लज, जि. कोल्हापूर"
+        },
+        "BirthTime": {
+            "english": "Morning 09:15 AM",
+            "marathi": "सकाळी ०९:१५ मि."
+        },
+        "Color": {
+            "english": "Fair",
+            "marathi": "गोरा"
+        },
+        "Height": {
+            "english": "5 feet 3 inch",
+            "marathi": "५ फुट ३ इंच"
+        },
+        "BloodGroup": {
+            "english": "A +ve",
+            "marathi": "ए +"
+        },
+        "Gotra": {
+            "english": null,
+            "marathi": null
+        },
+        "Gan": {
+            "english": "Humans",
+            "marathi": "मनुष्य"
+        },
+        "Devak": {
+            "english": "Kalbach",
+            "marathi": "कलबाच "
+        },
+        "Ras": {
+            "english": "Taurus",
+            "marathi": "वृषभ"
+        },
+        "Kuldaivat": {
+            "english": "Jyotiba(kolapur)",
+            "marathi": "जोतिबा (कोल्हापूर)"
+        },
+        "RasName": {
+            "english": "Vasanti",
+            "marathi": "वासंती"
+        },
+        "Caste": {
+            "english": "Hindu-Maratha (96K)",
+            "marathi": "हिंदू मराठा ( ९६ कुळी)"
+        }
+    },
+    "Qualification": {
+        "Education": {
+            "english": "MSC. (chemistry)",
+            "marathi": "MSC. (chemistry)"
+        },
+        "Job": {
+            "english": "Padmabhushan Vasantdada Patil Engineering College ( Technical Instructor Post )",
+            "marathi": "पद्मभूषण वसंतदादा पाटील इजिनियरींग कॉलेज ( Technical Instructor Post )"
+        },
+        "Salary": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "FamilyInformation": {
+        "GrandfatherName": {
+            "english": null,
+            "marathi": null
+        },
+        "GrandmotherName": {
+            "english": null,
+            "marathi": null
+        },
+        "FatherName": {
+            "english": "Adv. Anandrao Mahadev Desai (BSC, LLB G.D.C.& A)",
+            "marathi": "अॅड. आनंदराव महादेव देसाई (BSC, LLB G.D.C.& A)"
+        },
+        "MotherName": {
+            "english": "Ms. Savita Anandrao Desai (Housewife)",
+            "marathi": "सौ. सविता आनंदराव देसाई (गृहणी)"
+        },
+        "SisterName": {
+            "english": "Dr. Savita Anandrao Desai (B.H.M.S.), Miss. Vidhita Anandrao Desai (Student)",
+            "marathi": "डॉ. सविता आनंदराव देसाई (B.H.M.S.), कु विधिता आनंदराव देसाई (शिक्षणार्थी) "
+        },
+        "BrotherName": {
+            "english": "Mr. Harshvardhan Anandrao Desai (Student)",
+            "marathi": "चिं. हर्षवर्धन आनंदराव देसाई (शिक्षणार्थी)"
+        },
+        "Uncle": {
+            "english": null,
+            "marathi": null
+        },
+        "Mama": {
+            "english": null,
+            "marathi": null
+        },
+        "Aatya": {
+            "english": null,
+            "marathi": null
+        },
+        "Mavshi": {
+            "english": null,
+            "marathi": null
+        },
+        "Relatives": {
+            "english": " Desai, Sawant, Bhosale, Shinde Sarkar, Deshmukh, Sardesai. Rane, Nimbalkar,",
+            "marathi": "देसाई, सावंत, भोसले, शिंदे सरकार, देशमुख, सरदेसाई, राणे, निंबाळकर,"
+        }
+    },
+    "ContactMe": {
+        "EmailId": {
+            "english": null,
+            "marathi": null
+        },
+        "MobileNo": {
+            "english": "9172046470 / 8693017487",
+            "marathi": "९१७२०४६४७० / ८६९३०१७४८७ "
+        }
+    },
+    "Photos": {
+        "ProfilePhotoName": "assets/Profile.jpg",
+        "GalleryPhoto": {
+            "Photo1": "assets/G(1).jpg",
+            "Photo2": "assets/G(2).jpg",
+            "Photo3": "assets/G(3).jpg",
+            "Photo4": "assets/G(4).jpg",
+            "Photo5": "assets/G(5).jpg",
+            "Photo6": "assets/G(6).jpg"
+            
+        }
+    }
+}

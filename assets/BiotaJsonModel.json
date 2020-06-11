@@ -149,6 +149,7 @@
         }
     },
     "Photos": {
+        "Kundali":"assets/Kundali.jpg",
         "ProfilePhotoName": "assets/Profile.jpg",
         "GalleryPhoto": {
             "Photo1": "assets/G(1).jpg",
